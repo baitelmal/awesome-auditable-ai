@@ -339,6 +339,8 @@ Every component above is also listed in the topical section it belongs to, under
 
 **\[TypeScript\] Impri** ([sekera-radim/impri](https://github.com/sekera-radim/impri)): self-hostable approval inbox that records human approvals, edits, and rejections for actions proposed by AI agents over MCP or REST, with review through a web inbox, Slack, Telegram, or phone. Agents integrate the returned decision into their execution flow. MIT-licensed core, 2026-present.
 
+**\[Rust\] Vestige** ([samvallad33/vestige](https://github.com/samvallad33/vestige)): local MCP server that stores agent memory in an append-only, hash-chained log, supplies offline-checkable receipts for writes, and walks recorded execution relationships to support failure diagnosis. AGPL-3.0-licensed, 2026-present.
+
 ---
 
 ## Security Auditing and Scanners
