@@ -315,6 +315,8 @@ Every component above is also listed in the topical section it belongs to, under
 
 ### Decision-Record Tools
 
+**[Go] centrol** ([baitelmal/centrol](https://github.com/baitelmal/centrol)): local flight recorder for AI coding agents that records tool calls and file mutations to a hash-chained ledger the agent has no write path to, with rollback and offline hash-chain verification. Apache-2.0, 2026-present.
+
 **\[TypeScript\] MakerChecker** ([makerchecker/MakerChecker](https://github.com/makerchecker/MakerChecker)): self-hosted governance for AI agents with role-based execution, human approval gates, and a hash-chained, Ed25519-signed audit log of every action. AGPL-3.0, 2026-present.
 
 **\[TypeScript\] aegis** ([Justin0504/Aegis](https://github.com/Justin0504/Aegis)): runtime policy enforcement for AI agents with a cryptographic audit trail, human-in-the-loop approvals, and a kill switch, implemented as a wrapper around agent code. MIT-licensed, 2026-present.
